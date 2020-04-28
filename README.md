@@ -5,9 +5,9 @@ Flutter Social UIKit.
 ## Screenshots
 
 <div style="display:inline-block">
-<img style="margin-right:20px" src="screenshots/one.png" width="400px">
-<img src="screenshots/two.png" width="400px">
-<img src="screenshots/three.png" width="400px">
+<img style="margin-right:20px" src="screenshots/one.png" width="200px">
+<img src="screenshots/two.png" width="200px">
+<img src="screenshots/three.png" width="200px">
 </div>
 
 
