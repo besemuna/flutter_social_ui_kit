@@ -21,7 +21,7 @@ class RecommendationsBuilder extends StatelessWidget {
                   colors: [Color(0xffA3FEC7), Color(0xff6AC6FC)]),
             ),
             child: Image(
-              image: AssetImage("assets/images/recommendations_one.png"),
+              image: AssetImage(item.picture),
             ),
           ),
           SizedBox(
